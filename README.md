@@ -9,7 +9,7 @@
 
 📫 **How to reach me**: manganyeandile@gmail.com  
 
-📄 **Know about my work**: [LinkedIn Profile](https://linkedin.com/in/your-profile)  
+📄 **Know about my work**: [LinkedIn Profile]([https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile))  
 
 🌱 **Currently learning** more about Advanced JavaScript, Python , Web APIs, and Cloud Databases.  
 
