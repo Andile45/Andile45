@@ -31,5 +31,4 @@
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile))
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)]([https://github.com/YourUsername](https://github.com/Andile45))
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manganyeandile@gmail.com)
