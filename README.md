@@ -3,13 +3,13 @@
 📍 Based in South Africa | 🌐 Open to global opportunities  
 
 📫 **How to reach me**: [manganyeandile@gmail.com](mailto:manganyeandile@gmail.com)  
-📄 **Know about my work**: [LinkedIn]([https://linkedin.com/in/your-profile](https://linkedin.com/in/andile-manganye-a27591319](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile))  
+📄 **Know about my work**: [LinkedIn]([https://linkedin.com/in/andile-manganye-a27591319](https://linkedin.com/in/andile-manganye-a27591319](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile))  
 🌱 **Currently learning**: Advanced JavaScript, Python, Web APIs, and Cloud Databases  
 ⚡ **Fun fact**: Every challenge I face is just another opportunity to learn, grow, and level up.
 
 📫 **How to reach me**: manganyeandile@gmail.com  
 
-📄 **Know about my work**: [LinkedIn Profile]([https://linkedin.com/in/your-profile](https://linkedin.com/in/andile-manganye-a27591319](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile))  
+📄 **Know about my work**: [LinkedIn Profile]([https://linkedin.com/in/andile-manganye-a27591319](https://linkedin.com/in/andile-manganye-a27591319](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile))  
 
 🌱 **Currently learning** more about Advanced JavaScript, Python , Web APIs, and Cloud Databases.  
 
