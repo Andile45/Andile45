@@ -1,5 +1,5 @@
 # Hi 👋, I'm Andile Manganye  
-💻 A passionate Web Developer & Digital Solutions Enthusiast  
+💻 A passionate Developer & Digital Solutions Enthusiast  
 📍 Based in South Africa | 🌐 Open to global opportunities  
 
 📫 **How to reach me**: [manganyeandile@gmail.com](mailto:manganyeandile@gmail.com)  
